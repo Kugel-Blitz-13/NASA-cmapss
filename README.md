@@ -25,7 +25,7 @@ Lower is better for both RMSE and PHM score.
 - `requirements.txt` - Python dependencies
 - `runs/lstm/` - final LSTM checkpoint, metrics, and plots
 - `runs/tcn/` - final TCN checkpoint, metrics, and plots
-- `cmapss_colab_starter.ipynb` - Colab notebook version
+- `cmapss_colab.ipynb` - Colab notebook version
 
 ## Environment
 
