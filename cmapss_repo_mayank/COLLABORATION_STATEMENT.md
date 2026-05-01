@@ -1,0 +1,1 @@
+This was a solo project. I used AI tools to help scaffold starter code, debug the dataset download issue in Colab, and revise documentation. I did not use AI to invent or alter the reported results. The final model choice, experiment setup, interpretation of the outputs, and the report writing were completed by me.
