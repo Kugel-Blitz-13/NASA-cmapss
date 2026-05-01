@@ -96,11 +96,6 @@ This will regenerate:
 - The final run in this package was completed on CPU. The code also supports GPU automatically if CUDA is available.
 - The `train.py` download logic was patched to search the extracted archive recursively, because the NASA zip layout can vary slightly across mirrors.
 
-## What to submit
-
-1. The final PDF report
-2. This repository (or a zip export of it)
-
 ## AI use disclosure
 
-AI tools were used to help generate starter code structure, debug the Colab download issue, and polish repository documentation. Final experiment design choices, interpretation of the results, and final written analysis were completed by the author.
+AI tools were used to help reframe code structure for clarity, debug Colab download issues, and polish repository documentation. Experiment design choices, interpretation of the results, and final written analysis were completed by the author.
